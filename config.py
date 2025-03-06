@@ -4,4 +4,4 @@ BOT_USERNAME = '@Замените на имя вашего бота'
 
 
 
-# https://github.com/Paoak/TelegramQuizBot.git
+# git remote add origin https://github.com/Paoak/TelegramQuizBot.git
